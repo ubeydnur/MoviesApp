@@ -1,0 +1,60 @@
+{
+  "movies": [
+    {
+      "name": "One Day",
+      "rating": "7.4",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wExm6yv7e0krcb8epv754khx46B.jpg",
+      "overview": "Emma Morley (Anne Hathaway) ve Dexter Mayhew (Jim Sturgess) birbirlerine tamamen zıt sosyal yapılardan gelen iki genç insandır. Emma işçi sınıfı bir aileden yetişmiş, hayata dair devrimci ruhu olan bir genç kızdır.",
+      "id": 6
+    },
+    {
+      "name": "Monster Hunter",
+      "rating": "7.1",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1UCOF11QCw8kcqvce8LKOO6pimh.jpg",
+      "overview": "A portal transports Cpt. Artemis and an elite unit of soldiers to a strange world where powerful monsters rule with deadly ferocity. Faced with relentless danger, the team encounters a mysterious hunter who may be their only hope to find a way home.\n\n",
+      "id": 7
+    },
+    {
+      "name": "Cherry",
+      "rating": "7.6",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg",
+      "overview": "Cherry drifts from college dropout to army medic in Iraq - anchored only by his true love, Emily. But after returning from the war with PTSD, his life spirals into drugs and crime as he struggles to find his place in the world.",
+      "id": 8
+    },
+    {
+      "name": "The Falcon and the Winter Soldier",
+      "rating": "7.9",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
+      "overview": "Following the events of “Avengers: Endgame”, the Falcon, Sam Wilson and the Winter Soldier, Bucky Barnes team up in a global adventure that tests their abilities, and their patience.",
+      "id": 10
+    },
+    {
+      "name": "Wonder Woman 1984",
+      "rating": "6.8",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+      "overview": "A botched store robbery places Wonder Woman in a global battle against a powerful and mysterious ancient force that puts her powers in jeopardy.",
+      "id": 11
+    },
+    {
+      "name": "Mare of Easttown",
+      "rating": "9.8",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/78aK4Msbr22A5PGa6PZV0pAvdwf.jpg",
+      "overview": "A detective in a small Pennsylvania town investigates a local murder while trying to keep her life from falling apart.",
+      "id": 12
+    },
+    {
+      "name": "Raya ve Son Ejderha",
+      "rating": "8.3",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x4Hw592xZOFWULSgXBNaCsRKohU.jpg",
+      "overview": "Kumandra adlı bir ülkede, Raya adlı bir savaşçı dünyanın son ejderhasını arar. Kumandra, beş farklı klandan oluşur ve Güneydoğu Asya'dan esinlenmiştir. Ejderhalar bir zamanlar Kumandra'da yaşadılar, ancak karanlık, uğursuz bir güç nedeniyle ortadan kayboldular. Savaşçı Raya, son ejderhayı bulmak için bir grup yabancı ile bir yolculuğa çıktığı Kumandra'da yaşıyor. Ejderhanın dünyaya ışığı ve birliği geri getirmesi gerekiyordu. Sonunda Sisu adlı ejderhayı bulurlar, ancak onlarla insan formunda karşılaşırlar. Raya, ejderhanın gücünü yeniden kazanmasına yardım eder, böylece kendisini tekrar ejderha formuna dönüştürebilir.",
+      "id": 13
+    },
+    {
+      "name": "Yırtıcı Kuşlar ve Muhteşem Harley Quinn",
+      "rating": "7.1",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ZB3EBbF3HHywU7jfcwP8eDnUwn.jpg",
+      "overview": "Joker'den ayrılan Harley Quinn, bir suç lordundan nadir bir elmas çaldıktan sonra üzerine ödül koyulan genç bir kıza yardım etmek için bir şarkıcı, bir suikastçı ve bir polis dedektifiyle güçlerini birleştiriyor.",
+      "id": 14
+    }
+  ]
+}
