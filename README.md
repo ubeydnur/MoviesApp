@@ -3,6 +3,9 @@
 - Projeyi fork'ladıktan ya da indirdikten sonra projenin bulunduğu klasörde `npm install` komutu ile gerekli paketlerin yüklenmesi gerekiyor.
 - `npx json-server --watch src/api/movies.json --port 3002`
 - Daha sonra `npm run start` komutu ile uygulama başlatılabilir.  
+  
+***  
+![image](./readme.png)
 
 # Getting Started with Create React App
 
