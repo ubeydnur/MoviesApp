@@ -1,3 +1,9 @@
+### Proje Nasıl Çalıştırılır
+
+- Projeyi fork'ladıktan ya da indirdikten sonra projenin bulunduğu klasörde `npm install` komutu ile gerekli paketlerin yüklenmesi gerekiyor.
+- `npx json-server --watch src/api/movies.json --port 3002`
+- Daha sonra `npm run start` komutu ile uygulama başlatılabilir.  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
